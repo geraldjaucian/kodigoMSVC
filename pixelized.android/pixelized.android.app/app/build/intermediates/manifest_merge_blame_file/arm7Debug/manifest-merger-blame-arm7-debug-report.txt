@@ -1,0 +1,41 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="app.kodigo.gj.pixelized"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="14"
+8-->D:\Projects\Pixelized\pixelized.android\pixelized.android.app\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->D:\Projects\Pixelized\pixelized.android\pixelized.android.app\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->D:\Projects\Pixelized\pixelized.android\pixelized.android.app\app\src\main\AndroidManifest.xml:6:3-17:17
+12        android:allowBackup="false"
+12-->D:\Projects\Pixelized\pixelized.android\pixelized.android.app\app\src\main\AndroidManifest.xml:7:7-34
+13        android:debuggable="true"
+14        android:label="@string/app_name" >
+14-->D:\Projects\Pixelized\pixelized.android\pixelized.android.app\app\src\main\AndroidManifest.xml:8:7-39
+15        <activity
+15-->D:\Projects\Pixelized\pixelized.android\pixelized.android.app\app\src\main\AndroidManifest.xml:9:5-16:16
+16            android:name="app.kodigo.gj.pixelized.MainActivity"
+16-->D:\Projects\Pixelized\pixelized.android\pixelized.android.app\app\src\main\AndroidManifest.xml:9:15-43
+17            android:label="@string/app_name"
+17-->D:\Projects\Pixelized\pixelized.android\pixelized.android.app\app\src\main\AndroidManifest.xml:10:15-47
+18            android:theme="@android:style/Theme.NoTitleBar" >
+18-->D:\Projects\Pixelized\pixelized.android\pixelized.android.app\app\src\main\AndroidManifest.xml:11:15-62
+19            <intent-filter>
+19-->D:\Projects\Pixelized\pixelized.android\pixelized.android.app\app\src\main\AndroidManifest.xml:12:7-15:23
+20                <action android:name="android.intent.action.MAIN" />
+20-->D:\Projects\Pixelized\pixelized.android\pixelized.android.app\app\src\main\AndroidManifest.xml:13:9-61
+20-->D:\Projects\Pixelized\pixelized.android\pixelized.android.app\app\src\main\AndroidManifest.xml:13:17-58
+21
+22                <category android:name="android.intent.category.LAUNCHER" />
+22-->D:\Projects\Pixelized\pixelized.android\pixelized.android.app\app\src\main\AndroidManifest.xml:14:9-69
+22-->D:\Projects\Pixelized\pixelized.android\pixelized.android.app\app\src\main\AndroidManifest.xml:14:19-66
+23            </intent-filter>
+24        </activity>
+25    </application>
+26
+27</manifest>

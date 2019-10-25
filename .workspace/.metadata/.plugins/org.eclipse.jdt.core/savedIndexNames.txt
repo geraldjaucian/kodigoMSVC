@@ -1,0 +1,5 @@
+INDEX VERSION 1.127+D:\Projects\Pixelized\.workspace\.metadata\.plugins\org.eclipse.jdt.core
+1186666906.index
+235054117.index
+2576749848.index
+3921970096.index

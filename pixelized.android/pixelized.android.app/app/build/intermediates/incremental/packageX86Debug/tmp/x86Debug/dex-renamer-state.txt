@@ -1,0 +1,4 @@
+#Thu Oct 24 17:37:57 CST 2019
+base.0=D\:\\Projects\\Pixelized\\pixelized.android\\pixelized.android.app\\app\\build\\intermediates\\dex\\x86Debug\\mergeDexX86Debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

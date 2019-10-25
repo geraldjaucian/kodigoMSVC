@@ -1,0 +1,61 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Projects\Pixelized\pixelized.android\pixelized.android.app\app\src\main\AndroidManifest.xml:2:1-18:12
+INJECTED from D:\Projects\Pixelized\pixelized.android\pixelized.android.app\app\src\main\AndroidManifest.xml:2:1-18:12
+INJECTED from D:\Projects\Pixelized\pixelized.android\pixelized.android.app\app\src\main\AndroidManifest.xml:2:1-18:12
+INJECTED from D:\Projects\Pixelized\pixelized.android\pixelized.android.app\app\src\main\AndroidManifest.xml:2:1-18:12
+INJECTED from D:\Projects\Pixelized\pixelized.android\pixelized.android.app\app\src\main\AndroidManifest.xml:2:1-18:12
+INJECTED from D:\Projects\Pixelized\pixelized.android\pixelized.android.app\app\src\main\AndroidManifest.xml:2:1-18:12
+INJECTED from D:\Projects\Pixelized\pixelized.android\pixelized.android.app\app\src\main\AndroidManifest.xml:2:1-18:12
+	package
+		ADDED from D:\Projects\Pixelized\pixelized.android\pixelized.android.app\app\src\main\AndroidManifest.xml:3:11-44
+		INJECTED from D:\Projects\Pixelized\pixelized.android\pixelized.android.app\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\Pixelized\pixelized.android\pixelized.android.app\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Projects\Pixelized\pixelized.android\pixelized.android.app\app\src\main\AndroidManifest.xml:5:11-36
+		INJECTED from D:\Projects\Pixelized\pixelized.android\pixelized.android.app\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\Pixelized\pixelized.android\pixelized.android.app\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Projects\Pixelized\pixelized.android\pixelized.android.app\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\Projects\Pixelized\pixelized.android\pixelized.android.app\app\src\main\AndroidManifest.xml:4:11-34
+		INJECTED from D:\Projects\Pixelized\pixelized.android\pixelized.android.app\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\Pixelized\pixelized.android\pixelized.android.app\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\Projects\Pixelized\pixelized.android\pixelized.android.app\app\src\main\AndroidManifest.xml:6:3-17:17
+	android:label
+		ADDED from D:\Projects\Pixelized\pixelized.android\pixelized.android.app\app\src\main\AndroidManifest.xml:8:7-39
+	android:allowBackup
+		ADDED from D:\Projects\Pixelized\pixelized.android\pixelized.android.app\app\src\main\AndroidManifest.xml:7:7-34
+activity#app.kodigo.gj.pixelized.MainActivity
+ADDED from D:\Projects\Pixelized\pixelized.android\pixelized.android.app\app\src\main\AndroidManifest.xml:9:5-16:16
+	android:label
+		ADDED from D:\Projects\Pixelized\pixelized.android\pixelized.android.app\app\src\main\AndroidManifest.xml:10:15-47
+	android:theme
+		ADDED from D:\Projects\Pixelized\pixelized.android\pixelized.android.app\app\src\main\AndroidManifest.xml:11:15-62
+	android:name
+		ADDED from D:\Projects\Pixelized\pixelized.android\pixelized.android.app\app\src\main\AndroidManifest.xml:9:15-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Projects\Pixelized\pixelized.android\pixelized.android.app\app\src\main\AndroidManifest.xml:12:7-15:23
+action#android.intent.action.MAIN
+ADDED from D:\Projects\Pixelized\pixelized.android\pixelized.android.app\app\src\main\AndroidManifest.xml:13:9-61
+	android:name
+		ADDED from D:\Projects\Pixelized\pixelized.android\pixelized.android.app\app\src\main\AndroidManifest.xml:13:17-58
+category#android.intent.category.LAUNCHER
+ADDED from D:\Projects\Pixelized\pixelized.android\pixelized.android.app\app\src\main\AndroidManifest.xml:14:9-69
+	android:name
+		ADDED from D:\Projects\Pixelized\pixelized.android\pixelized.android.app\app\src\main\AndroidManifest.xml:14:19-66
+uses-sdk
+INJECTED from D:\Projects\Pixelized\pixelized.android\pixelized.android.app\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Projects\Pixelized\pixelized.android\pixelized.android.app\app\src\main\AndroidManifest.xml
+INJECTED from D:\Projects\Pixelized\pixelized.android\pixelized.android.app\app\src\main\AndroidManifest.xml
+INJECTED from D:\Projects\Pixelized\pixelized.android\pixelized.android.app\app\src\main\AndroidManifest.xml
+INJECTED from D:\Projects\Pixelized\pixelized.android\pixelized.android.app\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Projects\Pixelized\pixelized.android\pixelized.android.app\app\src\main\AndroidManifest.xml
+		ADDED from D:\Projects\Pixelized\pixelized.android\pixelized.android.app\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\Pixelized\pixelized.android\pixelized.android.app\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Projects\Pixelized\pixelized.android\pixelized.android.app\app\src\main\AndroidManifest.xml
+		ADDED from D:\Projects\Pixelized\pixelized.android\pixelized.android.app\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\Pixelized\pixelized.android\pixelized.android.app\app\src\main\AndroidManifest.xml
